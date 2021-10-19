@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/css/main.09e09ff3.chunk.css",
+    "main.js": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/main.65c7376e.chunk.js",
+    "main.js.map": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/main.65c7376e.chunk.js.map",
+    "runtime-main.js": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/runtime-main.4eea9cb8.js",
+    "runtime-main.js.map": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/runtime-main.4eea9cb8.js.map",
+    "static/js/2.528c7410.chunk.js": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/2.528c7410.chunk.js",
+    "static/js/2.528c7410.chunk.js.map": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/2.528c7410.chunk.js.map",
+    "index.html": "https://venkatesh-kunchala.github.io/csb-n3jgh/index.html",
+    "static/css/main.09e09ff3.chunk.css.map": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/css/main.09e09ff3.chunk.css.map",
+    "static/js/2.528c7410.chunk.js.LICENSE.txt": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/2.528c7410.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eea9cb8.js",
+    "static/js/2.528c7410.chunk.js",
+    "static/css/main.09e09ff3.chunk.css",
+    "static/js/main.65c7376e.chunk.js"
+  ]
+}
