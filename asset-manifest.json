@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/css/main.09e09ff3.chunk.css",
-    "main.js": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/main.65c7376e.chunk.js",
-    "main.js.map": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/main.65c7376e.chunk.js.map",
+    "main.js": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/main.6e8cc5de.chunk.js",
+    "main.js.map": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/main.6e8cc5de.chunk.js.map",
     "runtime-main.js": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/runtime-main.4eea9cb8.js",
     "runtime-main.js.map": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/runtime-main.4eea9cb8.js.map",
     "static/js/2.528c7410.chunk.js": "https://venkatesh-kunchala.github.io/csb-n3jgh/static/js/2.528c7410.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4eea9cb8.js",
     "static/js/2.528c7410.chunk.js",
     "static/css/main.09e09ff3.chunk.css",
-    "static/js/main.65c7376e.chunk.js"
+    "static/js/main.6e8cc5de.chunk.js"
   ]
 }
